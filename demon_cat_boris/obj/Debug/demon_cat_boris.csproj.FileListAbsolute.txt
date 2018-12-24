@@ -1,0 +1,6 @@
+D:\Projects\demon_cat_boris\demon_cat_boris\bin\Debug\demon_cat_boris.exe.config
+D:\Projects\demon_cat_boris\demon_cat_boris\obj\Debug\demon_cat_boris.csprojResolveAssemblyReference.cache
+D:\Projects\demon_cat_boris\demon_cat_boris\bin\Debug\demon_cat_boris.exe
+D:\Projects\demon_cat_boris\demon_cat_boris\bin\Debug\demon_cat_boris.pdb
+D:\Projects\demon_cat_boris\demon_cat_boris\obj\Debug\demon_cat_boris.exe
+D:\Projects\demon_cat_boris\demon_cat_boris\obj\Debug\demon_cat_boris.pdb
